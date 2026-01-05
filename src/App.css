@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+#n1
+{
+ text-decoration: none;
+ margin-right: 25px;
+ background-color: lightblue;
+ border-radius: 5px; 
+}
+nav{
+  background-color: lightcoral;
+}
+#n1:hover
+{
+  background-color: green;
+}
